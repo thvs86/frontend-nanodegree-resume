@@ -156,6 +156,11 @@ ul {
   list-style-type: none;
 }
 
+.flex-item {
+  list-style: none;
+  display: inline-block;
+}
+
 .biopic {
   float: left;
   padding: 10px;
@@ -165,6 +170,8 @@ ul {
 
 img {
   padding: 10px;
+  width: 200px;
+  height: 200px;
 }
 
 span {
